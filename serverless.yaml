@@ -1,7 +1,7 @@
 service: nitro-sample
 provider:
   name: aws
-  stage: dev
+  stage: prod
   runtime: nodejs16.x
   region: us-east-1
 functions:
